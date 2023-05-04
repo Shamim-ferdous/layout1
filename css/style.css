@@ -1,0 +1,19 @@
+/*common start*/
+body{
+	font-family: ;
+	font-size: 16px;
+	font-weight: 400;
+	color: ;
+}
+/*common end*/
+a:hover{
+	color: coral;
+}
+
+input:focus{
+	background-color: coral;
+}
+
+p::first-letter{
+	color: chocolate;
+}
